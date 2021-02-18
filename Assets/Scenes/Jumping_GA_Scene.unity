@@ -677,10 +677,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridWidth: 5
   gridHeight: 5
-  mutationRate: 0.01
+  mutationRate: 0.1
   innerCount: 10
   innerScale: 400
-  timeScale: 10
+  timeScale: 5
   deadZone: {fileID: 740755564}
   jumpStatusText: {fileID: 266480473}
   bestFitnessText: {fileID: 1527312850}
